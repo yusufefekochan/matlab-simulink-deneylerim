@@ -12,7 +12,7 @@ Kontrol sistemleri laboratuvarı kapsamında MATLAB–Simulink ile kök yer eğr
 Klasör adları depo görünümündeki düzene göre verilmiştir (deney1–deney6). İçeriğin tam adı/konusu klasör içeriğine göre güncellenebilir. 
 GitHub
 
-.
+
 ├─ deney1/   # Kök Yer Eğrisi (Root Locus) – kutup/sıfır etkisi, K değişimi
 
 ├─ deney2/   # Routh–Hurwitz kararlılık testi – işaret değişimleri, kararlılık şartı
