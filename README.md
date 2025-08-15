@@ -14,10 +14,15 @@ GitHub
 
 .
 ├─ deney1/   # Kök Yer Eğrisi (Root Locus) – kutup/sıfır etkisi, K değişimi
+
 ├─ deney2/   # Routh–Hurwitz kararlılık testi – işaret değişimleri, kararlılık şartı
+
 ├─ deney3/   # İkinci derece sistem – adım cevabı: ζ, ωn, %OS, Ts, Tp
+
 ├─ deney4/   # Frekans cevabı – Bode genlik/faz, bant genişliği, kararlılık payları
+
 ├─ deney5/   # PID kontrolör – P/PI/PID ayarı, yükselme/yerleşme süreleri
+
 └─ deney6/   # (Varsa) Durum geribesleme / Gözleyici / Kutup yerleştirme
 
 
